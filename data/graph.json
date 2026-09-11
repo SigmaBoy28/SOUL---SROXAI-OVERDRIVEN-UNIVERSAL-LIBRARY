@@ -1,0 +1,75 @@
+{
+  "nodes": [
+    {
+      "id": "example.pdf",
+      "type": "document"
+    },
+    {
+      "id": "How Things Work The Physics of Everyday Life  2013 - Louis A. Bloomfield - Mantesh.pdf",
+      "type": "document"
+    },
+    {
+      "id": "Physics of the Future - Michio Kaku.pdf",
+      "type": "document"
+    },
+    {
+      "id": "Practical_Electronics_for_Inventors_Fourth_Edition_By_Paul_Scherz_and_Simon_Monk.pdf",
+      "type": "document"
+    },
+    {
+      "id": "Rocket Propulsion Elements by George P. Sutton.pdf",
+      "type": "document"
+    },
+    {
+      "id": "System of Neural Line.pdf",
+      "type": "document"
+    }
+  ],
+  "edges": [
+    {
+      "source": "example.pdf",
+      "target": "How Things Work The Physics of Everyday Life  2013 - Louis A. Bloomfield - Mantesh.pdf",
+      "weight": 0.11351396389363268
+    },
+    {
+      "source": "example.pdf",
+      "target": "Rocket Propulsion Elements by George P. Sutton.pdf",
+      "weight": 0.13120824572755946
+    },
+    {
+      "source": "How Things Work The Physics of Everyday Life  2013 - Louis A. Bloomfield - Mantesh.pdf",
+      "target": "Physics of the Future - Michio Kaku.pdf",
+      "weight": 0.45841205069254254
+    },
+    {
+      "source": "How Things Work The Physics of Everyday Life  2013 - Louis A. Bloomfield - Mantesh.pdf",
+      "target": "Practical_Electronics_for_Inventors_Fourth_Edition_By_Paul_Scherz_and_Simon_Monk.pdf",
+      "weight": 0.4149184340868517
+    },
+    {
+      "source": "How Things Work The Physics of Everyday Life  2013 - Louis A. Bloomfield - Mantesh.pdf",
+      "target": "Rocket Propulsion Elements by George P. Sutton.pdf",
+      "weight": 0.33667279780048687
+    },
+    {
+      "source": "Physics of the Future - Michio Kaku.pdf",
+      "target": "Practical_Electronics_for_Inventors_Fourth_Edition_By_Paul_Scherz_and_Simon_Monk.pdf",
+      "weight": 0.33046557310182306
+    },
+    {
+      "source": "Physics of the Future - Michio Kaku.pdf",
+      "target": "Rocket Propulsion Elements by George P. Sutton.pdf",
+      "weight": 0.2606075240603705
+    },
+    {
+      "source": "Physics of the Future - Michio Kaku.pdf",
+      "target": "System of Neural Line.pdf",
+      "weight": 0.12060768877106054
+    },
+    {
+      "source": "Practical_Electronics_for_Inventors_Fourth_Edition_By_Paul_Scherz_and_Simon_Monk.pdf",
+      "target": "Rocket Propulsion Elements by George P. Sutton.pdf",
+      "weight": 0.2592137589712522
+    }
+  ]
+}
